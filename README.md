@@ -4,3 +4,6 @@
 3. Open elevated (run as administrator) command prompt and paste the directory, example: `cd /d C:\office`
 4. Download the office data, run `setup.exe /download 365.xml` don't close the command prompt window and wait until command finishes to run
 5. Install the office, run `setup.exe /configure 365.xml` wait until installer finishes
+
+Read here for further documentation:
+https://learn.microsoft.com/en-us/microsoft-365-apps/deploy/overview-office-deployment-tool
