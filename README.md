@@ -1,3 +1,8 @@
+# Configuration Overview 
+- Only Install Word, Excel, and PowerPoint
+- Only works on 64-bit Windows system
+- Override (Uninstall) any existed MSI-based Office edition (like 2007, 2010..)
+
 # Usage
 1. Download office deployment tool [here](http://go.microsoft.com/fwlink/?LinkId=691958) and put setup.exe in same directory with the xml configuration files. 365.xml for office 365, 2021.xml is for office 2021 and so on. Difference between them is [here](https://support.microsoft.com/en-us/office/what-s-the-difference-between-microsoft-365-and-office-2024-ed447ebf-6060-46f9-9e90-a239bd27eb96)
 2. Copy the directory address
