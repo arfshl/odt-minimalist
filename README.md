@@ -1,7 +1,7 @@
 # Configuration Overview 
 - Only Install Word, Excel, and PowerPoint
-- Only works on 64-bit Windows system
-- Office language installed is only English US (Without additional languages or proofing)
+- Only works on 64-bit Windows 10+ system.
+- Office language installed is only English US Without additional languages or proofing
 - Override (Uninstall) any existed MSI-based Office edition (like 2007, 2010..)
 
 # Usage
